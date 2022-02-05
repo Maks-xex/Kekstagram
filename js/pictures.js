@@ -1,5 +1,4 @@
 "use strict";
-
 (() => {
   const formFilter = document.querySelector(".filters");
 

@@ -1,9 +1,5 @@
 "use strict";
 (() => {
-  let user = {
-    name: "John",
-    age: "16",
-  };
   const postURL = "https://24.javascript.pages.academy/kekstagram";
   const getURL = "https://24.javascript.pages.academy/kekstagram/data";
 
